@@ -34,7 +34,3 @@ This project combines **machine learning**, **data analysis**, and **interactive
 * Avoids asking users directly about their income
 * Integrates ML predictions with curated travel recommendations
 * Provides an elegant and user-friendly experience through Gradio
-
----
-
-Would you like me to also add a **“Tech Stack”** and **“How to Run”** section (with icons and code blocks) to make the README look even more professional?
