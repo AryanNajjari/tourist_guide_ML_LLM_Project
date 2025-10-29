@@ -1,0 +1,97 @@
+[
+  {
+    "city": "Bangkok, Thailand",
+    "attractions": "Visit the Grand Palace & Wat Phra Kaew, wander the riverside by the Chao Phraya, see Wat Arun, sample street-food in Chinatown & Khao San Road, take a long-tail boat ride through the canals.",
+    "estimated_salary": 24000
+  },
+  {
+    "city": "Hoi An, Vietnam",
+    "attractions": "Ancient town of Hoi An, lantern-lit streets, bike rides to rice paddies, cooking class for Vietnamese cuisine, beach time at An Bang Beach.",
+    "estimated_salary": 21700
+  },
+  {
+    "city": "Barcelona, Spain",
+    "attractions": "Visit the Sagrada Família, stroll through Park Güell, explore the Gothic Quarter, relax on the city beach, enjoy tapas & flamenco.",
+    "estimated_salary": 50000
+  },
+  {
+    "city": "Cape Town, South Africa",
+    "attractions": "Hike or cable-car up Table Mountain, visit Cape Point, walk the V&A Waterfront, explore Kirstenbosch Gardens.",
+    "estimated_salary": 36700
+  },
+  {
+    "city": "Rome, Italy",
+    "attractions": "Colosseum & Roman Forum, Vatican Museums, Pantheon, Trevi Fountain, walking the cobbled streets of Trastevere.",
+    "estimated_salary": 56200
+  },
+  {
+    "city": "Sydney, Australia",
+    "attractions": "Sydney Opera House, Bondi to Coogee coastal trail, Taronga Zoo, beaches, dining in lively laneways.",
+    "estimated_salary": 47700
+  },
+  {
+    "city": "New York City, USA",
+    "attractions": "Times Square, Central Park, Met Museum, Broadway show, Statue of Liberty, food scene.",
+    "estimated_salary": 84700
+  },
+  {
+    "city": "Paris, France",
+    "attractions": "Eiffel Tower, Seine river cruise, Louvre Museum, Montmartre, strolling Champs-Élysées.",
+    "estimated_salary": 72500
+  },
+  {
+    "city": "Tokyo, Japan",
+    "attractions": "Shibuya Crossing, Meiji Shrine, Senso-ji Temple, digital art museums, foodie culture.",
+    "estimated_salary": 43300
+  },
+  {
+    "city": "Dubai, United Arab Emirates",
+    "attractions": "Burj Khalifa, Dubai Mall, Palm Jumeirah, desert safari, luxury dining.",
+    "estimated_salary": 100000
+  },
+  {
+    "city": "Reykjavik, Iceland",
+    "attractions": "Explore Reykjavik city, geothermal baths, day trips to Golden Circle, glacier hikes.",
+    "estimated_salary": 99300
+  },
+  {
+    "city": "Singapore, Singapore",
+    "attractions": "Marina Bay Sands, Gardens by the Bay, Sentosa Island, ultra-clean city, shopping.",
+    "estimated_salary": 96700
+  },
+  {
+    "city": "Zürich, Switzerland",
+    "attractions": "Old Town, Lake Zürich boat ride, day trips to Swiss Alps, high-end shopping.",
+    "estimated_salary": 116700
+  },
+  {
+    "city": "Tokyo to Kyoto Trip, Japan",
+    "attractions": "Combine Tokyo highlights + Kyoto temples, traditional tea-houses, bullet train experience.",
+    "estimated_salary": 120000
+  },
+  {
+    "city": "Lisbon, Portugal",
+    "attractions": "Alfama district, Tram 28 ride, Belém Tower, Fado music dinner.",
+    "estimated_salary": 45000
+  },
+  {
+    "city": "Istanbul, Turkey",
+    "attractions": "Hagia Sofia, Blue Mosque, Grand Bazaar, Bosphorus cruise, vibrant food culture.",
+    "estimated_salary": 40000
+  },
+  {
+    "city": "Vancouver, Canada",
+    "attractions": "Stanley Park, Granville Island, Capilano suspension bridge, multicultural food scene.",
+    "estimated_salary": 63300
+  },
+  {
+    "city": "Buenos Aires, Argentina",
+    "attractions": "Recoleta cemetery, tango show, Palermo Soho walking, Argentine steak dinners.",
+    "estimated_salary": 36700
+  },
+  {
+    "city": "Marrakech, Morocco",
+    "attractions": "Jemaa el-Fnaa square, souks, riad stays, day-trip to Atlas Mountains.",
+    "estimated_salary": 40000
+  }
+]
